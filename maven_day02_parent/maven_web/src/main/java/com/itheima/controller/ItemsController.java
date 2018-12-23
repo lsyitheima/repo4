@@ -19,5 +19,19 @@ public class ItemsController {
         Items items = itemsService.findByid(1);
         model.addAttribute("item",items);
         return "itemDetail";
+        /*
+        hello
+        hello
+        hello
+        hello
+        hello
+        hello
+        hello
+        hello
+        hello
+
+
+         */
     }
+
 }
